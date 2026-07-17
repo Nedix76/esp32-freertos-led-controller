@@ -29,9 +29,6 @@ Zaawansowany sterownik adresowalnych taśm LED (WS2812B) oparty na mikrokontrole
    ```cpp
    const char* ssid     = "TWOJA_NAZWA_SIECI";
    const char* password = "TWOJE_HASLO";
-
-```
-
 5. Wgraj program na płytkę ESP32.
 6. Otwórz Monitor Szeregowy (baudrate `115200`), aby odczytać adres IP przypisany do urządzenia.
 7. Wpisz adres IP w przeglądarce, aby otworzyć panel sterowania. Panel OTA dostępny jest pod adresem `http://<IP_ESP32>/update`.
