@@ -1,5 +1,8 @@
 # ESP32 FreeRTOS LED Controller Pro
 
+<img width="516" height="745" alt="Zrzut ekranu 2026-07-17 225336" src="https://github.com/user-attachments/assets/a7bdb20b-e0f0-4e29-9073-2bfb652205dd" />
+
+
 Zaawansowany sterownik adresowalnych taśm LED (WS2812B) oparty na mikrokontrolerze ESP32. Projekt wykorzystuje system operacyjny czasu rzeczywistego **FreeRTOS** do wielozadaniowości, zapewniając płynne generowanie animacji niezależnie od obciążenia serwera sieciowego.
 
 ## 🚀 Główne Funkcje
