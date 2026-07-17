@@ -1,5 +1,7 @@
+
 # ESP32 FreeRTOS LED Controller Pro
 
+<img width="1708" height="470" alt="WhatsApp Image 2026-07-17 at 23 01 11" src="https://github.com/user-attachments/assets/ffba57a4-d89f-487a-9337-2561116569d2" />
 <img width="516" height="745" alt="Zrzut ekranu 2026-07-17 225336" src="https://github.com/user-attachments/assets/a7bdb20b-e0f0-4e29-9073-2bfb652205dd" />
 
 
